@@ -1,0 +1,3 @@
+﻿  lab12.cpp
+E:\study\oaip\lab12\lab12\lab12.cpp(69,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab12.vcxproj -> E:\study\oaip\lab12\x64\Debug\lab12.exe

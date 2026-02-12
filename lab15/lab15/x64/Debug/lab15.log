@@ -1,0 +1,7 @@
+﻿  lab15.cpp
+E:\study\oaip\lab15\lab15\lab15.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\study\oaip\lab15\lab15\lab15.cpp(20,29): warning C4474: "printf_s" : для строки формата передано слишком много аргументов
+      E:\study\oaip\lab15\lab15\lab15.cpp(20,29):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+  lab15.vcxproj -> E:\study\oaip\lab15\x64\Debug\lab15.exe
